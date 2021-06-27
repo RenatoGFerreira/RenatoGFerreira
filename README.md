@@ -1,4 +1,4 @@
-###Olá 👋, meu nome é Renato Gomes Ferreira
+### Olá 👋, meu nome é Renato Gomes Ferreira
 
 Sou graduando em Tecnologia em Análise de Sistemas, apaixonado por aprender, desenvolver projetos e principalmente codar e aqui você irá encontrar meus projetos de estudo e poder acompanhar minha evolução diária. 💻
 

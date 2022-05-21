@@ -1,10 +1,10 @@
 ## Olá 👋, meu nome é Renato Gomes Ferreira
 
-Sou graduando em Tecnologia em Análise de Sistemas, apaixonado por aprender, desenvolver projetos e principalmente codar e aqui você irá encontrar meus projetos de estudo e poder acompanhar minha evolução diária. 💻
+Sou graduando em Tecnologia em Análise de Sistemas, apaixonado por aprender, desenvolver projetos e principalmente codar. Aqui você irá encontrar meus projetos de estudo e poder acompanhar minha evolução diária. 💻
 
-* Atualmente trabalho na Companhia Brasileira de Trêns Urbanos - Belo Horizonte
+* 🔭 Atualmente trabalho na Companhia Brasileira de Trêns Urbanos - Belo Horizonte
 * 💬 Pergunte-me coisas sobre tech, finanças, filmes, viagens, lugares
-* Amo aprender coisas diferentes e estou fazendo uma trânsição de carreira no momento
+* 🌱 Amo aprender coisas diferentes e estou fazendo uma trânsição de carreira no momento
 ### Meus Contatos:
 * linkedin.com/in/renato-ferreira-01
 * instagram.com/renatof._/  

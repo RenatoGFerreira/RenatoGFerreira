@@ -3,8 +3,8 @@
 ## Olá 👋, meu nome é Renato Gomes Ferreira
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RenatoGFerreira&show_icons=true&count_private=true&hide_border=false&title_color=ffffff&icon_color=ffffff&text_color=2F8BE6&bg_color=0d1117" alt="Renato GFerreira github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoGFerreira&layout=compact&hide_border=false&title_color=ffffff&text_color=2F8BE6&bg_color=0d1117" />
+  <img width="49%" height="190px" src="https://github-readme-stats.vercel.app/api?username=RenatoGFerreira&show_icons=true&count_private=true&hide_border=false&title_color=ffffff&icon_color=ffffff&text_color=2F8BE6&bg_color=0d1117" alt="Renato GFerreira github stats" /> 
+  <img width="41%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoGFerreira&layout=compact&hide_border=false&title_color=ffffff&text_color=2F8BE6&bg_color=0d1117" />
 </div>
 
 Sou graduando em Tecnologia em Análise e Desenvolvimento de Sistemas,  apaixonado por aprender, desenvolver projetos e principalmente codar. Aqui você irá encontrar alguns dos meus projetos de estudo e poderá acompanhar minha evolução diária. 💻

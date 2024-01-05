@@ -7,27 +7,27 @@
   <img width="41%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoGFerreira&layout=compact&hide_border=false&title_color=ffffff&text_color=2F8BE6&bg_color=0d1117" />
 </div>
 
-Sou graduando em Tecnologia em Análise e Desenvolvimento de Sistemas,  apaixonado por aprender, desenvolver projetos e principalmente codar. Aqui você irá encontrar alguns dos meus projetos de estudo e poderá acompanhar minha evolução diária. 💻
+Sou formado em Tecnologia em Análise e Desenvolvimento de Sistemas e terminei minha formação intensiva pela Driven Education com qualidades de Software Engineer. Sou apaixonado por aprender, desenvolver projetos e principalmente codar. Aqui você irá encontrar alguns dos meus projetos de estudo e poderá acompanhar minha evolução diária. 💻
 
-* 🔭 Atualmente sou funcionário público na área de atendimento ao público - Belo Horizonte
-* 💻 No momento estou estudando desenvolvimento back-end pela Driven Education para uma formação completa em Engenharia de Software
+* 🔭 Atualmente sou Engenheiro de Software pela LEVTY - Belo Horizonte
+* 💻 No momento estou quase terminando meu bacharel em Ciência da Computação 
 * 💬 Pergunte-me coisas sobre tech, finanças, filmes, viagens, lugares
-* 🌱 Amo aprender coisas diferentes e estou fazendo uma trânsição de carreira no momento
+* 🌱 Amo aprender coisas diferentes e completei minha transição de carreira em 2023
 
 ### Main skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&logoColor=purple&labelColor=0D1117)&nbsp; 
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=git&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Typescript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![MongoDb](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=MongoDB&labelColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![MongoDb](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=MongoDB&labelColor=0D1117)&nbsp;
+![Postgresql](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 ### Studying in this moment:
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Postgresql](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117&textColor=0D1117)&nbsp;
-
 
 
 ### Contact me:

@@ -7,12 +7,12 @@
   <img width="41%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoGFerreira&layout=compact&hide_border=false&title_color=ffffff&text_color=2F8BE6&bg_color=0d1117" />
 </div>
 
-Sou formado em Tecnologia em Análise e Desenvolvimento de Sistemas e terminei minha formação intensiva pela Driven Education com qualidades de Software Engineer. Sou apaixonado por aprender, desenvolver projetos e principalmente codar. Aqui você irá encontrar alguns dos meus projetos de estudo e poderá acompanhar minha evolução diária. 💻
+Sou formado em Ciência da Computação, Gestão de Recursos Humanos, Pós-graduado em Gestão de Pessoas e terminei minha formação intensiva pela Driven Education com qualidades de Software Engineer. Sou apaixonado por aprender, desenvolver projetos e principalmente codar. Aqui você irá encontrar alguns dos meus projetos de estudo e poderá acompanhar minha evolução diária. 💻
 
-* 🔭 Atualmente sou Engenheiro de Software pela LEVTY - Belo Horizonte
-* 💻 No momento sou bacharel em Ciência da Computação 
-* 💬 Pergunte-me coisas sobre tech, finanças, filmes, viagens, lugares
-* 🌱 Completei minha transição de carreira em 2023 mesmo programando a mais de 7 anos
+* 🔭 Atualmente sou Engenheiro de Software pela LEVTY - Belo Horizonte;
+* 💻 No momento estou desenvolvendo softwares usando React, React Native, Node e Postgresql;
+* 💬 Pergunte-me coisas sobre tech, finanças, filmes, viagens, lugares;
+* 🌱 Completei minha transição de carreira em 2023 mesmo programando a mais de 7 anos;
 
 ### Main skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;

@@ -10,9 +10,9 @@
 Sou formado em Tecnologia em Análise e Desenvolvimento de Sistemas e terminei minha formação intensiva pela Driven Education com qualidades de Software Engineer. Sou apaixonado por aprender, desenvolver projetos e principalmente codar. Aqui você irá encontrar alguns dos meus projetos de estudo e poderá acompanhar minha evolução diária. 💻
 
 * 🔭 Atualmente sou Engenheiro de Software pela LEVTY - Belo Horizonte
-* 💻 No momento estou quase terminando meu bacharel em Ciência da Computação 
+* 💻 No momento sou bacharel em Ciência da Computação 
 * 💬 Pergunte-me coisas sobre tech, finanças, filmes, viagens, lugares
-* 🌱 Amo aprender coisas diferentes e completei minha transição de carreira em 2023
+* 🌱 Completei minha transição de carreira em 2023 mesmo programando a mais de 7 anos
 
 ### Main skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
@@ -24,10 +24,6 @@ Sou formado em Tecnologia em Análise e Desenvolvimento de Sistemas e terminei m
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![MongoDb](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=MongoDB&labelColor=0D1117)&nbsp;
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117&textColor=0D1117)&nbsp;
-
-### Studying in this moment:
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 
 ### Contact me:
